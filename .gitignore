@@ -80,3 +80,6 @@ fabric.properties
 
 #akazsh settings, ignore update notification for npm 
 .config/configstore/update*
+
+#project settings 
+/ssldocker/nginx*
